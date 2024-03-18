@@ -20,6 +20,7 @@ Biz1book is a comprehensive POS (Point of Sale) desktop application that leverag
 2. Log in with your credentials or sign up for a new account.
 3. Explore the POS functionalities, custom pages, and real-time updates.
 4. Manage inventory, process transactions, and interact with clients seamlessly.
+4. Mnull hvhgvgh
 
 # Technologies Used
 1. AngularJS and Electron.js for the frontend
