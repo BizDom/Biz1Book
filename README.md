@@ -13,6 +13,7 @@ Biz1book is a comprehensive POS (Point of Sale) desktop application that leverag
 6. **Azure Server Hosting:** Hosted on Azure servers for seamless deployment, high availability, and scalability.
 7. **Custom Pages for Clients:** Tailored pages for clients to access specific information and functionalities, enhancing user engagement.
 7. **IssUe Task Test:** lorem23
+8. ******Test*****
 
 
 # Usage
